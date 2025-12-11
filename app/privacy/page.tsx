@@ -206,7 +206,7 @@ export default function PrivacyPage() {
                             </p>
                             <ul className="list-none space-y-2 ml-4">
                                 <li><strong>Email:</strong> <a href="mailto:tkarthikeyan@gmail.com" className="text-purple-400 hover:text-purple-300">tkarthikeyan@gmail.com</a></li>
-                                <li><strong>GitHub:</strong> <a href="https://github.com/tkarthikeyan" target="_blank" rel="noopener noreferrer" className="text-purple-400 hover:text-purple-300">@tkarthikeyan</a></li>
+                                <li><strong>GitHub:</strong> <a href="https://github.com/carthworks" target="_blank" rel="noopener noreferrer" className="text-purple-400 hover:text-purple-300">@tkarthikeyan</a></li>
                             </ul>
                         </div>
                     </section>

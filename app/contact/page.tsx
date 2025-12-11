@@ -77,7 +77,7 @@ export default function ContactPage() {
                                     <div>
                                         <h3 className="font-semibold text-white mb-1">GitHub</h3>
                                         <a
-                                            href="https://github.com/tkarthikeyan"
+                                            href="https://github.com/carthworks"
                                             target="_blank"
                                             rel="noopener noreferrer"
                                             className="text-gray-400 hover:text-purple-400 transition-colors"
@@ -259,7 +259,7 @@ export default function ContactPage() {
                                 Found an issue? Let us know on GitHub
                             </p>
                             <a
-                                href="https://github.com/tkarthikeyan"
+                                href="https://github.com/carthworks"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="text-purple-400 hover:text-purple-300 transition-colors"

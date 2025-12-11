@@ -145,7 +145,7 @@ This project is created for Gantto by Karthikeyan T.
 
 **Karthikeyan T**
 - Email: tkarthikeyan@gmail.com
-- GitHub: [@tkarthikeyan](https://github.com/tkarthikeyan)
+- GitHub: [@tkarthikeyan](https://github.com/carthworks)
 
 ---
 

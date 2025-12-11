@@ -21,7 +21,7 @@ export default function Footer() {
                         </p>
                         <div className="flex space-x-4">
                             <a
-                                href="https://github.com/tkarthikeyan"
+                                href="https://github.com/carthworks"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="p-2 rounded-lg glass hover:bg-white/10 transition-colors"
